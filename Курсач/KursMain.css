@@ -307,7 +307,7 @@ footer a{
   .Information{
     display: none;
   }
-  header img{
+  header #post{
     display: none;
   }
   .Information.active{
@@ -316,7 +316,7 @@ footer a{
     flex-direction: column;
     width: 8rem;
   }
-  header img.active{
+  header #post.active {
     display: block;
     height: 4rem;
     width: 8rem;
